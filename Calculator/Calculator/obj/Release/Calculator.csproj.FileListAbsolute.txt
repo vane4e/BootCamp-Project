@@ -1,0 +1,12 @@
+C:\Users\student.ITSTEP\Documents\Павлычев И\Calculator\Calculator\bin\Release\Calculator.exe.config
+C:\Users\student.ITSTEP\Documents\Павлычев И\Calculator\Calculator\bin\Release\Calculator.exe
+C:\Users\student.ITSTEP\Documents\Павлычев И\Calculator\Calculator\bin\Release\Calculator.pdb
+C:\Users\student.ITSTEP\Documents\Павлычев И\Calculator\Calculator\obj\Release\Calculator.csproj.AssemblyReference.cache
+C:\Users\student.ITSTEP\Documents\Павлычев И\Calculator\Calculator\obj\Release\Calculator.Form1.resources
+C:\Users\student.ITSTEP\Documents\Павлычев И\Calculator\Calculator\obj\Release\Calculator.Form2.resources
+C:\Users\student.ITSTEP\Documents\Павлычев И\Calculator\Calculator\obj\Release\Calculator.Form3.resources
+C:\Users\student.ITSTEP\Documents\Павлычев И\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+C:\Users\student.ITSTEP\Documents\Павлычев И\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.cache
+C:\Users\student.ITSTEP\Documents\Павлычев И\Calculator\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\student.ITSTEP\Documents\Павлычев И\Calculator\Calculator\obj\Release\Calculator.exe
+C:\Users\student.ITSTEP\Documents\Павлычев И\Calculator\Calculator\obj\Release\Calculator.pdb
